@@ -61,12 +61,13 @@ class TextScramble {
   // ——————————————————————————————————————————————————
   
   const phrases = [
-    'Hai My Pambudi And Piona,',
+    'Hai Abimanyu,',
     'Cinta itu memang indah',
     'tapi tak Seindah Khayalanmu',
     'that there\'s a difference',
-    'Salam Pelangi Singgah',
-    'Jangan Lupa join di @pelangi_singgah74',
+    '~ Pelangi Singgah',
+    'Jangan Lupa join di,',
+    '@pelangi_singgah74',
     'cuma ada di telegram :)',
   ]
   
