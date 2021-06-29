@@ -61,7 +61,7 @@ class TextScramble {
   // ——————————————————————————————————————————————————
   
   const phrases = [
-    'Hai Abimanyu,',
+    'Hai Saya Abimanyu,',
     'Cinta itu memang indah',
     'tapi tak Seindah Khayalanmu',
     'that there\'s a difference',
